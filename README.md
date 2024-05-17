@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="100" src=".github/assets/banner.png">
+    <img width="100" src="./assets/banner.png">
 </p>
 
 
@@ -73,7 +73,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
       width=80 
       src="https://avatars.githubusercontent.com/u/58255516?v=4"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspAlexandre Bulcão<br>
     &nbsp&nbsp&nbsp
     <a href="https://github.com/ambulcao">GitHub</a>&nbsp;|&nbsp;
     <a href="https://www.linkedin.com/in/ambulcao/">LinkedIn</a>
